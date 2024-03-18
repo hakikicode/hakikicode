@@ -1,4 +1,4 @@
-[![MasterHead](https://simplecoding.dev/assets/devops.gif)](https://github.com/hakiki)
+[![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFjYjhhMjdrODB4dWZ2NHpiZGRyNDdnZmZocGJkdHViaDloMDltOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)](https://github.com/hakiki)
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">A passionate Full Stack Engineer & Digital Marketing Expert from Nigeria</h3>
 
@@ -10,6 +10,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/hakikicode](https://github.com/hakikicode)
 
+- Portfolio Link [Portfolio Link](https://hakikicode-github-ecpugo3sf-hakikicode.vercel.app/)
+
 - 💬 Ask me about **React | AWS | Python | HTML5 | Web3 | Social Media | Sponsored Ads | Php**
 
 - 📫 How to reach me **hakikicode@gmail.com**
@@ -20,8 +22,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Hakikicoded/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kapil0123" height="30" width="40" /></a>
-<a href="https://ng.linkedin.com/in/aliu-rasheed-703ab5168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hakiki" height="30" width="40" /></a>
+<a href="https://twitter.com/Hakikicoded/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hakikicode" height="30" width="40" /></a>
+<a href="https://ng.linkedin.com/in/aliu-rasheed-703ab5168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hakikicode" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
