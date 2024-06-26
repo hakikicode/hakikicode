@@ -1,9 +1,13 @@
-[![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFjYjhhMjdrODB4dWZ2NHpiZGRyNDdnZmZocGJkdHViaDloMDltOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)](https://github.com/hakiki)
+![image](https://github.com/hakikicode/hakikicode/assets/57021097/65367995-7187-4859-961b-14a2325586df)![image](https://github.com/hakikicode/hakikicode/assets/57021097/c858228a-0b95-484e-ac4c-a9af99daa41b)[![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFjYjhhMjdrODB4dWZ2NHpiZGRyNDdnZmZocGJkdHViaDloMDltOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)](https://github.com/hakiki)
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">A passionate Full Stack Engineer & Digital Marketing Expert from Nigeria</h3>
+<h3 align="center">A passionate Full Stack Engineer & Digital Marketing Expert, Video Editing Skills, Video Ads Trafficing from Nigeria</h3>
 
 - 🔭 I’m currently working on [Omni-Auth](https://github.com/Team-Hack-IT/OmniAuth)
 
+- currently working a web3 tech hub africa **video and audio podcast**
+
+- 🌱 I also currently worked on a video Quiz Application Using **Facebook VIdeo, Movavi Video Editor, OBS,InShot - Video Editor,Video Maker, VN - Video Editor & Maker, YouCut - AI Video Editor, CapCut, Filmora, LumaFusion, GoPro Quik & very verstile in nature always open to learn new ones**
+  
 - 🌱 I’m currently learning **Cairo For Web3 Practices**
 
 - 👯 I’m looking to collaborate on [DAPI Network](https://github.com/DAPI-xyz/Frontend)
